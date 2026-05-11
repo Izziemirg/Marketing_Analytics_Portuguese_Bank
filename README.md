@@ -1,6 +1,6 @@
 As part of assignment for my MSBA program at the University of Virginia, I used machine learning to predict whether a customer will subscribe to a term deposit at a Portuguese bank, following a direct marketing (phone call) campaign.
 
-The core objective was to build an accurate classification model that identifies the prospects most likely to respond, allowing the bank to optimize its telemarketing efforts by targeting the top deciles of customers.
+The core objective was to build an accurate and confident classification model that identifies the prospects most likely to respond, allowing the bank to optimize its telemarketing efforts by targeting the top deciles of customers.
 
 ## Dataset Overview
 
