@@ -1,8 +1,8 @@
-This project, titled Marketing Analytics for a Portuguese Bank, uses machine learning to predict whether a customer will subscribe to a term deposit following a direct marketing (phone call) campaign.
+As part of assignment for my MSBA program at the University of Virginia, I used machine learning to predict whether a customer will subscribe to a term deposit at a Portuguese bank, following a direct marketing (phone call) campaign.
 
-The core objective is to build a response model that identifies the prospects most likely to respond, allowing the bank to optimize its telemarketing efforts by targeting the top deciles of customers.
+The core objective was to build an accurate classification model that identifies the prospects most likely to respond, allowing the bank to optimize its telemarketing efforts by targeting the top deciles of customers.
 
-Dataset Overview
+## Dataset Overview
 
 The analysis is based on a dataset from a Portuguese banking institution containing approximately 41,188 to 45,211 observations with various customer attributes.
 
@@ -26,7 +26,7 @@ Contact Frequency: Marketing efficiency drops if a customer is contacted more th
 
 Demographics: Professionals in "admin" jobs, highly educated individuals, and married customers are more likely to accept term deposit offers.
 
-Modeling and Strategy
+## Modeling and Strategy
 
 The analysis involves testing various classification models, including Logistic Regression, k-Nearest Neighbors (kNN), Support Vector Machines (SVM), and Random Forest.
 
